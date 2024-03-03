@@ -43,31 +43,15 @@
 <img src="https://res.cloudinary.com/de7hlbfce/image/upload/v1708860134/aquavigil/oohkgb05hi7b8kw81uo3.png" alt="workflow" />
 <br/>
 
-<h2>Website Capture</h2>
-<img src="https://res.cloudinary.com/de7hlbfce/image/upload/v1708860541/aquavigil/tqecb4xk8vjkep6cex1a.png" alt="workflow" />
-<br/>
-<img src="https://res.cloudinary.com/de7hlbfce/image/upload/v1708860539/aquavigil/ejvt4cjeltu30f2e3hxs.png" alt="workflow" />
-<br/>
-<img src="https://res.cloudinary.com/de7hlbfce/image/upload/v1708860539/aquavigil/okuwoidxf7ehcpeyhvn6.png" alt="workflow" />
-<br/>
-<img src="https://res.cloudinary.com/de7hlbfce/image/upload/v1708860539/aquavigil/okuwoidxf7ehcpeyhvn6.png" alt="workflow" />
-<br/>
-<img src="https://res.cloudinary.com/de7hlbfce/image/upload/v1708860537/aquavigil/op0uy2okylcmwycoxhxx.png" alt="workflow" />
-<br/>
-<img src="https://res.cloudinary.com/de7hlbfce/image/upload/v1708860544/aquavigil/hebfetsh3r4ux1mowkrf.png" alt="workflow" />
-<br/>
-<img src="https://res.cloudinary.com/de7hlbfce/image/upload/v1708860544/aquavigil/qgss8ljcvfvtuinloxqs.png" alt="workflow" />
-<br/>
-
-
-## 4. Technology Stack
-- Frontend: HTML5, CSS3, JavaScript (Next.js)
-- Backend: Node.js, Express.js
+## 3. Technology Stack
+- Frontend: Next.js, TailwindCSS
+- Backend: MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - Database: MongoDB
 - Authentication: JSON Web Tokens (JWT)
 - Mapping and Geolocation: Google Maps API
+- AI Assistant: Gemini API, OpenAI API
 
-## 5. Security
+## 4. Security
 - Encryption of sensitive user data using industry-standard protocols.
 - Role-based access control to ensure that only authorized personnel can access sensitive information.
 - Regular security audits and updates to mitigate vulnerabilities and ensure data integrity.
@@ -114,4 +98,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
